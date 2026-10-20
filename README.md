@@ -24,9 +24,9 @@
 ## 🧩 LeetCode Info
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" height="110" alt="LeetCode badge" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" height="110" alt="LeetCode badge" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" height="110" alt="LeetCode badge" />
+  <img src="https://github.com/user-attachments/assets/f401227c-611c-434b-95cb-c3e40562d763" alt="Animation"  height="110" />
+  <img src="https://github.com/user-attachments/assets/6db59952-e4a2-4d7e-8242-5a91994763c2" alt="Animation"  height="110" />
+  <img src="https://github.com/user-attachments/assets/b0497bf0-cc55-497d-9402-b86b77f74f51" alt="Animation"  height="110" />
   <img src="https://github.com/user-attachments/assets/39a65f8f-5bee-43e9-bb64-179e7b83b71e" alt="Animation"  height="110" />
 </p>
 
