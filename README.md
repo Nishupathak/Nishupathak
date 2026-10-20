@@ -20,11 +20,43 @@
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/nishu-pathak-391266242) or [email](mailto:nishupathak208@gmail.com)
 
 ---
-Leetcode Info
-<img width="445" height="276" alt="{F3BFB960-DD85-4D26-9F55-64141667A611}" src="https://github.com/user-attachments/assets/0dfbec8b-271f-47e9-81ce-6f1cbe535f58" />
-<img width="390" height="270" alt="{D3AAFBCE-9141-4320-9E50-E3BCA6C1F94D}" src="https://github.com/user-attachments/assets/255f024d-3354-4cfe-ba6c-6772d50c77be" />
-<img width="425" height="236" alt="{DCE251C2-893E-4115-825D-6A74B2917AF1}" src="https://github.com/user-attachments/assets/77ef9f6d-aeb4-40bb-a3b1-46892718c15e" />
-<img width="387" height="262" alt="{DF7D5A69-3A0B-4066-8131-7CA28A23C661}" src="https://github.com/user-attachments/assets/8ddd053c-070f-47a1-bee5-aed04047cbc7" />
+
+## 🧩 LeetCode Info
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&ext=heatmap" alt="LeetCode stats" />
+</a>
+
+</div>
+
+ Optional: show your LeetCode badges like a row of medals.
+     On your LeetCode profile, right-click each badge image, choose "Copy image address",
+     paste the links below, then remove the comment markers.
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" height="110" alt="LeetCode badge" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" height="110" alt="LeetCode badge" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" height="110" alt="LeetCode badge" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" height="110" alt="LeetCode badge" />
+</p>
+
+
+---
+
+## ⚡ Current Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Nishupathak&theme=dark&currStreakNum=3B82F6&currStreakLabel=3B82F6&fire=3B82F6" alt="GitHub streak" />
+
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nishupathak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishupathak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Most used languages" />
+
+</div>
 
 ---
 ## 🌐 Connect With Me
