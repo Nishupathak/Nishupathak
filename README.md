@@ -23,18 +23,6 @@
 
 ## 🧩 LeetCode Info
 
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&ext=heatmap" alt="LeetCode stats" />
-</a>
-
-</div>
-
- Optional: show your LeetCode badges like a row of medals.
-     On your LeetCode profile, right-click each badge image, choose "Copy image address",
-     paste the links below, then remove the comment markers.
-
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" height="110" alt="LeetCode badge" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" height="110" alt="LeetCode badge" />
