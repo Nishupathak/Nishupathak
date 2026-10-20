@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Nishupathak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Building+AI-powered+tools;Python+%7C+FastAPI+%7C+JavaScript;Creator+of+StudyLens;Learning+and+building+in+public" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Hi,+there+I'm+Nishu;Building+AI-powered+tools;Python+%7C+FastAPI+%7C+JavaScript;Creator+of+StudyLens;Learning+and+building+in+public" alt="Typing animation" />
 </a>
 
 </div>
