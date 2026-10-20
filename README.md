@@ -27,7 +27,8 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" height="110" alt="LeetCode badge" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" height="110" alt="LeetCode badge" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" height="110" alt="LeetCode badge" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" height="110" alt="LeetCode badge" />
+  <img src="<img width="360" height="360" alt="2024-09" src="https://github.com/user-attachments/assets/21232bb4-736d-4c7a-ada5-93aee7ed6975" />
+" height="110" alt="LeetCode badge" />
 </p>
 
 
