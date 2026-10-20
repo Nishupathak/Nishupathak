@@ -17,7 +17,7 @@
 - 🛠️ **Recently built:** StudyLens with verified citations, quizzes, flashcards, a personal library, and fact-checking
 - 🎯 **Focus:** LLM integration · FastAPI · Retrieval · Browser extensions
 - 🌱 **Exploring:** Semantic search · Embeddings · Local LLMs
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/nishu-pathak-391266242) or [email](mailto:nishupathak208@gmail.com)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/nishu-pathak-391266242) or [email](nishupathak208@gmail.com)
 
 ---
 
@@ -51,7 +51,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/nishu-pathak-391266242/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:nishupathak208@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="nishupathak208@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <!-- Optional: remove the comment markers and add your links
   <a href="https://www.youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
