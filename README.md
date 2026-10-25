@@ -103,29 +103,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### [StudyLens](https://github.com/Nishupathak/StudyLens)
-
-A browser extension for the full study loop: **read, understand, verify, remember, revise.**
-
-- 💬 **Ask:** answers from the page you are reading, backed by verified quotes you can click to jump to
-- 📝 **Quiz:** multiple-choice questions in English, Hindi, or Hinglish, and missed questions become flashcards
-- 🗂️ **Cards:** flashcards reviewed with spaced repetition and a daily streak
-- 📚 **Library:** save pages, search across them, and quiz yourself from everything you saved
-- 🔎 **Check:** select a claim and fact-check it against live web sources
-
-<p>
-  <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Groq-21262d?style=flat-square" alt="Groq" />
-  <img src="https://img.shields.io/badge/Tavily-21262d?style=flat-square" alt="Tavily" />
-</p>
-
----
-
-<div align="center">
 
 <sub>Thanks for stopping by. Feedback and ideas are always welcome.</sub>
 
