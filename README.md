@@ -32,6 +32,7 @@
 
 
 ---
+
 ## ⚡ Current Statistics
 
 <div align="center">
@@ -44,7 +45,9 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishupathak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Most used languages" />
 
 </div> 
+
 ---
+
 ## 🌐 Connect With Me
 
 <p>
