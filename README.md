@@ -32,17 +32,20 @@
 
 
 ---
-
 ## ⚡ Current Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Nishupathak&theme=dark&currStreakNum=3B82F6&currStreakLabel=3B82F6&fire=3B82F6" alt="GitHub streak" />
+  <!-- GitHub Contribution Streak -->
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Nishupathak&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Contribution Streak" />
 
-<br />
+  <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nishupathak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishupathak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Most used languages" />
+  <!-- GitHub Overall Statistics -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nishupathak&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Statistics" />
+
+  <!-- Most Used Languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishupathak&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Most Used Languages" />
 
 </div>
 
