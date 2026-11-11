@@ -35,15 +35,10 @@
 
 ## ⚡ Current Statistics
 
-<div align="center">
-
-  <img src="./profile/stats.svg" width="90%" alt="GitHub Statistics"/>
-
-  <br/><br/>
-
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8" height="165" alt="Top languages" />
+</p>
 
 
 ---
