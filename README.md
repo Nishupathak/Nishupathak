@@ -33,7 +33,10 @@
 
 ---
 
-## ⚡ Current Statistics
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages" />
+</p>
 
 
 
