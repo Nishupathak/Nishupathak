@@ -35,7 +35,7 @@
 
 ## ⚡ Current Statistics
 
-vn7n24fzkq/github-profile-summary-cards
+
 
 
 ---
